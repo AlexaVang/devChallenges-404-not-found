@@ -23,7 +23,7 @@
 
 ## Overview
 
-![Screenshot (400)](https://github.com/AlexaVang/devChallenges-404-not-found/assets/133701659/82185e42-7ef8-4ddc-8562-961c7125aaca)
+![Screenshot (416)](https://github.com/AlexaVang/devChallenges-404-not-found/assets/133701659/0a3d9f15-88a3-4f88-a300-c200a9a2b7fa)
 
 ## Features
 
@@ -34,5 +34,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- LinkedIn [@your-linkedin](https://{linkedin.com/your-username})
+- GitHub [@your-username](https://{github.com/AlexaVang})
+- LinkedIn [@your-linkedin](https://{linkedin.com/in/alex-vang-0785891b8/})
