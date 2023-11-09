@@ -34,5 +34,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/AlexaVang})
-- LinkedIn [@your-linkedin](https://{linkedin.com/in/alex-vang-0785891b8/})
+- GitHub [@AlexaVang](https://{github.com/AlexaVang})
+- LinkedIn [@alex-vang](https://{linkedin.com/in/alex-vang-0785891b8/})
